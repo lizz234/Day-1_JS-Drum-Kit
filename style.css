@@ -49,3 +49,10 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+footer {
+  color: white;
+  text-align: center;
+  font-size: large;
+  font-style: italic;
+  margin-top: -30px;
+}
